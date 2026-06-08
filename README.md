@@ -3,26 +3,25 @@
 # AI &nbsp;|&nbsp; Embedded &nbsp;|&nbsp; Web Dev
 
 **Engineering student** at **Esprit School of Engineering** · Tunisia 🇹🇳  
-Curious mind · Creative coder · Calm soul 🌿
+Curious mind · Creative soul 
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hanin-gmati)
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haningmati)
-[![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hanin.gmati@gmail.com)
-[![HuggingFace](https://img.shields.io/badge/HUGGINGFACE-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/haningmati)
+[![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haningmati3@gmail.com)
+
 
 </div>
 
 ---
 
 ## 🧠 About Me
+I am a passionate engineering student specializing in AI and full-stack web development. I enjoy transforming complex problems into simple, clean, and impactful solutions.
 
-I'm a passionate engineering student specializing in **AI**, **embedded systems**, and **full-stack web development**. I love turning complex problems into clean, impactful solutions.
-
-- 🤖 Currently building **AI-powered projects** with Python & Django
-- 🧪 Exploring **machine learning**, **deep learning** & IoT
-- 🌱 Always experimenting with new technologies
-- 📍 Based in Tunisia · Studying at **Esprit School of Engineering**
-- 🤝 Open to collaborations and meaningful projects!
+🤖 Building AI-powered applications using Python & Django
+🧪 Diving into machine learning, deep learning, and IoT systems
+🌱 Constantly experimenting with emerging technologies
+📍 Based in Tunisia · Engineering student at Esprit School of Engineering
+🤝 Open to collaborations and impactful projects
 
 ---
 
@@ -45,7 +44,6 @@ I'm a passionate engineering student specializing in **AI**, **embedded systems*
 ![OpenCV](https://img.shields.io/badge/OPENCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HUGGINGFACE-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 **Web & Backend**
 
