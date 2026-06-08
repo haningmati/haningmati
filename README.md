@@ -4,15 +4,11 @@
 
 **Engineering student** at **Esprit School of Engineering** · Tunisia 🇹🇳  
 Curious mind · Creative soul 
-<p align="left">
-  <a href="https://www.linkedin.com/in/hanin-gmati-a81861301/">
-    <img src="https://img.shields.io/badge/LinkedIn-Hanin%20Gmati-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haningmati)
+## 🌐 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hanin%20Gmati-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanin-gmati-a81861301/)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haningmati)
 [![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haningmati3@gmail.com)
-
-</p>
-
 
 </div>
 
